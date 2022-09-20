@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-VideojuegosApplication<videojuegos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.misiontic2022.videojuegos.VideojuegosApplication",
+            "projectName": "videojuegos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
